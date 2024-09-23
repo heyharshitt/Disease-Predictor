@@ -88,7 +88,7 @@ if selected == 'Home':
     
     # GitHub icons and link on the left
     st.sidebar.subheader('Connect with the Creator:')
-    st.sidebar.write("[Harshit]()")
+    st.sidebar.write("[Harshit](https://github.com/heyharshitt/Disease-Predictor)")
 # Diabetes Prediction Page
 if selected == 'Diabetes Prediction':
 
